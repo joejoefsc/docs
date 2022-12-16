@@ -1,0 +1,5 @@
+description:
+What you need are cameras with boards where the lens is attached to the board using a lens holder with m12-0,5 screw thread (not soldered). 
+Now you can exchange the cheap lenses with the lens of the ELP cameras. 
+Make sure the lens holder is no higher than 10mm from the board, otherwise you will not get a sharp image with the elp lens
+(If necessary, use a 3d-printed version).
