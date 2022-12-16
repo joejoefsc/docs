@@ -144,8 +144,7 @@ This happens when your cameras have too much distortion. But don't worry, you ca
 
 Option 1 = [Camera distortion.json guide](https://github.com/autodarts/cam-calibration)
 
-Option 2 = [hardware optimization]
-
+Option 2 = [hardware optimization] (https://github.com/joejoefsc/docs/blob/main/hardware%20optimization)
 
 <img src="images/WithMuchDistortion.JPG" width="40%" height="40%">
 
