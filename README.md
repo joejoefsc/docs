@@ -143,6 +143,7 @@ When this is done for all three cameras you can click on the blue disk button on
 This happens when your cameras have too much distortion. But don't worry, you can correct them, we have two options for that. Follow these instructions: 
 
 Option 1 = [Camera distortion.json guide](https://github.com/autodarts/cam-calibration)
+
 Option 2 = [hardware optimization]
 
 
