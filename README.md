@@ -143,6 +143,8 @@ When this is done for all three cameras you can click on the blue disk button on
 This happens when your cameras have too much distortion. But don't worry, you can correct them, we have two options for that. Follow these instructions: [Camera distortion.json guide](https://github.com/autodarts/cam-calibration)
 Option 1 = 
 Option 2 =
+
+
 <img src="images/WithMuchDistortion.JPG" width="40%" height="40%">
 
 As soon as you are done you can start your board. You can do this either via the Motion, Dart, Config tab or on Autodarts.io after you're logged in. When you are on Autodarts.io you can create a game.
